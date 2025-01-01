@@ -11,7 +11,7 @@ public class NumberCard extends CardSuperItem{
 	//1. Create the correct constructor so the class can be instantiated
 	
 	public NumberCard(int value, String cardName) {
-		super(value, cardName);
+		 super(value, cardName);
 		
 	}
 	
